@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.109375" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/activity_home.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/dialog_product_input.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/dialog_transaction_pay.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/fragment_product.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/fragment_report.xml" value="0.33" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/fragment_transaction.xml" value="0.33" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/item_product.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/item_report.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/layout/item_transaction.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/MGL/deska/app/src/main/res/menu/bottom_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/bg_border_search.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/bg_btn_login.xml" value="0.403125" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/bg_btn_save.xml" value="0.403125" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/ic_add.xml" value="0.403125" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/ic_logout.xml" value="0.403125" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/ic_loogut.xml" value="0.403125" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/ic_product.xml" value="0.403125" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/ic_report.xml" value="0.403125" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/ic_transaction.xml" value="0.403125" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/drawable/icmin.xml" value="0.403125" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/activity_login.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/dialog_product_input.xml" value="0.25" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/dialog_transaction_pay.xml" value="0.3351851851851852" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/fragment_product.xml" value="0.33" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/fragment_product_input.xml" value="0.22" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/fragment_report.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/fragment_transaction.xml" value="0.33" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/fragment_transaction_pay.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/item_product.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/item_report.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/item_shimer.xml" value="0.22" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/layout/item_transaction.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/UNIVERSE/PROJECT/Pretest/app/src/main/res/menu/bottom_menu.xml" value="0.38697916666666665" />
+        <entry key="app/src/main/res/drawable/bg_btn_login.xml" value="0.26974358974358975" />
+        <entry key="app/src/main/res/drawable/bg_btn_save.xml" value="0.27395833333333336" />
+        <entry key="app/src/main/res/drawable/ic_password.xml" value="0.26974358974358975" />
+        <entry key="app/src/main/res/layout/activity_amount.xml" value="0.24375" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_product.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_product_input.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_report.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_transaction.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_transaction_pay.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/item_data.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_product.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_report.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/item_transaction.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/item_transaction_pay.xml" value="0.335" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.2361111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

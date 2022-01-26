@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_product"
+        android:enabled="true"
+        android:icon="@drawable/ic_product"
+        android:title="Product"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_transaction"
+        android:enabled="true"
+        android:icon="@drawable/ic_transaction"
+        android:title="Transaksi"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_report"
+        android:enabled="true"
+        android:icon="@drawable/ic_report"
+        android:title="Laporan"
+        app:showAsAction="always"/>
+</menu>
